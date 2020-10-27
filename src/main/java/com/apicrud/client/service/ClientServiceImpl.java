@@ -21,6 +21,7 @@ public class ClientServiceImpl implements ClientService {
     }
 
     // necessite un identifiant pour recuperer un client
+    // enlever get
     @Override
     public Client getClientById(Long clientId) {
         return clientRepository.findById(clientId).get();
