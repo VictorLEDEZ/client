@@ -14,4 +14,4 @@ Un client a des coordonnées, une adresse, un téléphone.
 
 ## Base de Données
 
-Vous pouvez trouver dans le fichier une image png qui est un MCD représentant la base de données pour cette API.
+Vous pouvez trouver dans le fichier une image png (MCD_VictorLEDEZ.png) qui est un MCD représentant la base de données pour cette API.
